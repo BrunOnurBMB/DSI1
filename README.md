@@ -27,6 +27,7 @@ Neste momento, fiz a classe **Lista** e a classe **ListaEstudo**, que herda as i
 - **DateTimeFormatter**
 - **StringBuilder**
 - **Array**
+  - `ArrayList<>();`   
 - **Estruturas lógicas**
   - `for`
   - `forEach`
